@@ -1,3 +1,3 @@
-One funtion of the operating system is manage system resources. 
+One function of the operating system is manage system resources. 
 Another function of the operating system is to provide a user interface. 
 A different function of the operating system is to execute applications. 
